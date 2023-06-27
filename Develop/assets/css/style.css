@@ -32,7 +32,6 @@ body {
     font-size: 20px;
     list-style-type: none;
 }
-
 /* moved code to above */
 
 .header section ul li {
@@ -86,7 +85,6 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
 /* Deleted redundant code and moved above */
 
 .benefits h3 {
@@ -129,6 +127,7 @@ p {
     color: #ffffff;
 }
 
+/* could not combine above */
 .content img {
     max-height: 200px;
 }

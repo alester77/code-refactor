@@ -100,7 +100,8 @@ p {
 }
 /* Combined code to above */
 
-.search-engine-optimization {
+/* Created class for all the below */
+.main-content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -108,26 +109,6 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* could not combine above */
 .content img {
     max-height: 200px;
 }
@@ -138,7 +119,6 @@ p {
     font-size: 36px;
 }
 /*Combined content to above*/
-
 
 .footer {
     padding: 30px;

@@ -12,4 +12,4 @@ To use, simply open the webpage.
 ## Credits
 Thanks to my DU Coding Bootcamp teacher, TAs and students for helping me learn along the way. 
 
-<https://github.com/coding-boot-camp/urban-octo-telegram>
+And thanks for the starter code DU!

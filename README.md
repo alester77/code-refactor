@@ -13,3 +13,5 @@ To use, simply open the webpage.
 Thanks to my DU Coding Bootcamp teacher, TAs and students for helping me learn along the way. 
 
 And thanks for the starter code DU!
+
+![Image of website](Screenshot%202023-06-29%20182334.png)
